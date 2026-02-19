@@ -1,0 +1,8 @@
+# Ignora a pasta de dependências do Node
+/node_modules
+
+# Ignora o arquivo de variáveis de ambiente
+.env
+
+# Ignora a pasta de dados do banco de dados
+/data
